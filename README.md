@@ -16,12 +16,12 @@
 
 ### Big-O gösterimini yazınız.
 
-O(n^2)
+OO(n<sup>2</sup>)
 
 ### Time Complexity: Average case: Aradığımız sayının ortada olması, Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 
-Worst case -> O(n^2)
-Average case -> O(n^2)
+Worst case -> O(n<sup>2</sup>)
+Average case -> O(n<sup>2</sup>)
 Best case -> O(n)
 
 ### Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
